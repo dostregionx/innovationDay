@@ -15,5 +15,4 @@ export default function Pressed(props) {
     </View>
   )
 }
-"D:\React\InnovationDay\node_modules\react-native-screens\android\src\main\AndroidManifest.xml"
 

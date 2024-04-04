@@ -12,4 +12,4 @@ export default function Pressed(props) {
     </View>
   )
 }
-
+//landingpage
